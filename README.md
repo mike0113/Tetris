@@ -29,7 +29,6 @@ level[4]    |	PIN_44
 level[5]    |	PIN_46
 level[6]    |	PIN_49
 level[7]    |	PIN_50
-
 seg[0]      |	PIN_51
 seg[1]      |	PIN_52
 seg[2]      |	PIN_53
@@ -37,7 +36,6 @@ seg[3]      |	PIN_54
 seg[4]      |	PIN_55
 seg[5]      |	PIN_58
 seg[6]      |	PIN_59
-
 DATA_R[0]   |	PIN_64
 DATA_R[1]   |	PIN_65
 DATA_R[2]   |	PIN_66
@@ -46,7 +44,6 @@ DATA_R[4]   | 	PIN_68
 DATA_R[5]   |	PIN_69
 DATA_R[6]   |	PIN_70
 DATA_R[7]   |	PIN_71
-
 DATA_G[0]   | 	PIN_72
 DATA_G[1]   |	PIN_73
 DATA_G[2]   |	PIN_74
@@ -55,7 +52,6 @@ DATA_G[4]   |	PIN_76
 DATA_G[5]   |	PIN_77
 DATA_G[6]   |	PIN_79
 DATA_G[7]   | 	PIN_80
-
 beep        |	PIN_83
 left        |	PIN_115
 change      |	PIN_119
@@ -66,7 +62,6 @@ COMM[2]     |	PIN_125
 COMM[1]     |	PIN_126
 COMM[0]     |	PIN_127
 killed      |	PIN_128
-
 DATA_B[0]   |	PIN_135
 DATA_B[1]   |	PIN_136
 DATA_B[2]   | 	PIN_137
